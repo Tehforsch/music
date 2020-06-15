@@ -1,5 +1,5 @@
 #!/bin/bash
-musicFolder=~/music2
+musicFolder=~/music
 if [[ $# == 0 ]]; then
     echo "Need at least one folder with albums as input"
     exit 1
